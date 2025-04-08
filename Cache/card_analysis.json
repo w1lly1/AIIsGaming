@@ -1,0 +1,26 @@
+[
+  {
+    "filename": "SCV.png",
+    "data": {
+      "error": "The following `model_kwargs` are not used by the model: ['image'] (note: typos in the generate arguments will also show up in this list)"
+    }
+  },
+  {
+    "filename": "不屈的守备官.png",
+    "data": {
+      "error": "The following `model_kwargs` are not used by the model: ['image'] (note: typos in the generate arguments will also show up in this list)"
+    }
+  },
+  {
+    "filename": "业务支猿.png",
+    "data": {
+      "error": "The following `model_kwargs` are not used by the model: ['image'] (note: typos in the generate arguments will also show up in this list)"
+    }
+  },
+  {
+    "filename": "主人的召唤.png",
+    "data": {
+      "error": "The following `model_kwargs` are not used by the model: ['image'] (note: typos in the generate arguments will also show up in this list)"
+    }
+  }
+]

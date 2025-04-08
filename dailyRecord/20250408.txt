@@ -1,0 +1,4 @@
+# for screen capture
+pip install pygetwindow pywin32 Pillow
+pip install psutil pywin32
+pip install dxcam
